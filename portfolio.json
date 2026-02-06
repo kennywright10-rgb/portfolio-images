@@ -1,0 +1,28 @@
+{
+  "heroImage": null,
+  "gridImages": [
+    {
+      "id": 1770394766667.1,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770394766667-cryotherapy.jpg"
+    },
+    {
+      "id": 1770394781015.2,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770394781015-istockphoto-489038054-1024x1024.webp"
+    },
+    {
+      "id": 1770394848029.3,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770394848029-IMG_3412.jpeg"
+    },
+    {
+      "id": 1770394881004.4,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770394881004-IMG_3412.jpeg"
+    },
+    {
+      "id": 1770394913430.5,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770394913430-cryotherapy.jpg"
+    }
+  ],
+  "heroName": "Geneva Wright",
+  "heroColor": "#ffffff",
+  "lastUpdated": "2026-02-06T16:30:10.166Z"
+}
