@@ -1,7 +1,40 @@
 {
   "heroImage": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572414437-IMG_1371.jpg",
-  "gridImages": [],
+  "gridImages": [
+    {
+      "id": 1770572444731.502,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572443672-IMG_8076__1_.jpg"
+    },
+    {
+      "id": 1770572445652.296,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572444753-IMG_8697.JPG"
+    },
+    {
+      "id": 1770572446399.5117,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572445682-IMG_8696.JPG"
+    },
+    {
+      "id": 1770572447187.1406,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572446416-IMG_8014.jpg"
+    },
+    {
+      "id": 1770572447722.9734,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572447195-IMG_8019.jpg"
+    },
+    {
+      "id": 1770572448349.0874,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572447737-IMG_8020.jpg"
+    },
+    {
+      "id": 1770572449195.2888,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572448367-IMG_8022.jpg"
+    },
+    {
+      "id": 1770572449945.933,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572449230-IMG_8025.jpg"
+    }
+  ],
   "heroName": "Geneva Wright",
   "heroColor": "#ffffff",
-  "lastUpdated": "2026-02-08T17:40:32.388Z"
+  "lastUpdated": "2026-02-08T17:40:50.070Z"
 }
