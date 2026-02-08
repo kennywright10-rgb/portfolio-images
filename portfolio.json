@@ -1,12 +1,7 @@
 {
   "heroImage": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770572414437-IMG_1371.jpg",
-  "gridImages": [
-    {
-      "id": 1770571952651.184,
-      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770571952096-istockphoto-1447178711-612x612.jpg"
-    }
-  ],
+  "gridImages": [],
   "heroName": "Geneva Wright",
   "heroColor": "#ffffff",
-  "lastUpdated": "2026-02-08T17:40:30.265Z"
+  "lastUpdated": "2026-02-08T17:40:32.388Z"
 }
