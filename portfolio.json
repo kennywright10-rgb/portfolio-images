@@ -2,12 +2,12 @@
   "heroImage": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770570501101-cryotherapy.jpg",
   "gridImages": [
     {
-      "id": 1770571030340.6782,
-      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770571029568-hikers.png"
-    },
-    {
       "id": 1770571030820.221,
       "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770571030342-istockphoto-489038054-1024x1024.webp"
+    },
+    {
+      "id": 1770571030340.6782,
+      "url": "https://raw.githubusercontent.com/kennywright10-rgb/portfolio-images/main/images/1770571029568-hikers.png"
     },
     {
       "id": 1770571031339.2705,
@@ -16,5 +16,5 @@
   ],
   "heroName": "Geneva Wright",
   "heroColor": "#ffffff",
-  "lastUpdated": "2026-02-08T17:31:28.350Z"
+  "lastUpdated": "2026-02-08T17:31:33.767Z"
 }
